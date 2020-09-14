@@ -27,3 +27,17 @@
   background-repeat: no-repeat;
   background-image: url(https://images.unsplash.com/photo-1471922694854-ff1b63b20054?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80);
 }
+
+#panel, .flip {
+  font-size: 16px;
+  padding: 8px;
+  text-align: center;
+  background-color: #5fdde5;
+  color: white;
+  border: solid 1px #a6d8a8;
+  display: inline;
+}
+
+#panel {
+  display: none;
+}
