@@ -6,3 +6,49 @@
 .form-inline .form-control {
   margin-bottom: 10px;
 }
+
+.box {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  padding: 10px;
+  width: 33.3333333%;
+}
+
+.box1 {
+  background-color: red;
+}
+.box2 {
+  background-color: blue;
+}
+.box3 {
+  background-color: green;
+}
+.box4 {
+  background-color: yellow;
+}
+.box5 {
+  background-color: purple;
+}
+.box6 {
+  background-color: black;
+}
+.box7 {
+  background-color: white;
+}
+.box8 {
+  background-color: pink;
+}
+.box9 {
+  background-color: grey;
+}
+.box10 {
+  background-color: orange;
+}
+
+.container {
+  display: flex;
+  border: 10px black solid;
+  height: 100vh;
+  flex-wrap: wrap;
+}
